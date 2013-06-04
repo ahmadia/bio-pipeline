@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-# <nbformat>3.0</nbformat>
-
-# <codecell>
-
-%pylab inline
+%pylab 
 import numpy as np
 
 f = open('Lumi.2760.csv')
