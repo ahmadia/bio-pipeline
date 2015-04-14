@@ -1,4 +1,4 @@
-#Here is a comment!
+# BOTH OF THOSE COMMENTS SUCKED
 %pylab 
 import numpy as np
 
